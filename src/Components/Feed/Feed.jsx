@@ -26,7 +26,7 @@ const Feed = ({ category }) => {
       {data.length > 0 && // Check if data has been fetched before rendering
         data.map((item, index) => (
           <Link
-            key={item.id} // Add a unique key for each item
+            key={item.id}
             to={`video/${item.snippet.categoryId}/${item.id}`}
             className="card"
           >

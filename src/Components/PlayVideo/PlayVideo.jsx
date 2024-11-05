@@ -28,7 +28,7 @@ const PlayVideo = () => {
 
   // Fetch channel and comment data
   const fetchOtherData = async () => {
-    if (!apiData) return; // Ensure apiData is defined
+    if (!apiData) return;
 
     const channelData_url = `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${apiData.snippet.channelId}&key=${API_KEY}`;
     const comment_url = `https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet%2Creplies&videoId=${videoId}&key=${API_KEY}`;
