@@ -23,7 +23,7 @@ const Feed = ({ category }) => {
 
   return (
     <div className="feed">
-      {data.length > 0 && // Check if data has been fetched before rendering
+      {data.length > 0 &&
         data.map((item, index) => (
           <Link
             key={item.id}
