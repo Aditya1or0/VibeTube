@@ -57,10 +57,6 @@ To run VibeTube locally, follow these steps:
 
 Feel free to fork the repository and contribute by opening a pull request. Whether it's bug fixes, new features, or enhancements, all contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Made with ❤️ by [Aditya1or0](https://github.com/Aditya1or0).
