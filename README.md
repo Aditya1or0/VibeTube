@@ -8,7 +8,6 @@ Check it out live: [VibeTube](https://vibe-tube-omega.vercel.app)
 
 - **Video Streaming**: Watch videos from YouTube directly within the app.
 - **Category Filter**: Browse and filter videos by categories like Gaming, Sports, News, and more.
-- **Search Functionality**: Search for specific videos or channels using the YouTube Data API.
 - **Responsive Design**: Mobile and desktop-friendly UI for seamless video viewing across all devices.
 - **Sidebar Navigation**: Easily navigate between categories, trending videos, and subscriptions.
 
