@@ -1,6 +1,6 @@
 # VibeTube
 
-VibeTube is a simple video streaming application built with **React.js**, designed to mimic the basic functionality of YouTube. Unlike traditional video streaming platforms, VibeTube does not require a backend or database. It fetches videos dynamically from the **YouTube Data API** and allows users to watch, search, and filter content by categories such as **gaming**, **sports**, and **news**.
+VibeTube is a simple video streaming application built with **React.js**, designed to mimic the basic functionality of YouTube. Unlike traditional video streaming platforms, VibeTube does not require a backend or database. It fetches videos dynamically from the **YouTube Data API** and allows users to watch and filter content by categories such as **gaming**, **sports**, and **news**.
 
 Check it out live: [VibeTube](https://vibe-tube-omega.vercel.app)
 
